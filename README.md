@@ -21,7 +21,7 @@
 ![Реальная сборка на макетной плате](photo1.jpg)
 
 **Как запустить:**
-1. Открыть скетч `blink.ino` в Arduino IDE.
+1. Открыть скетч `arduino_blink_project.ino` в Arduino IDE.
 2. Выбрать плату: Arduino Uno.
 3. Загрузить скетч на плату.
 
