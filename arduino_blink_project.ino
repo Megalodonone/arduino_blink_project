@@ -1,3 +1,9 @@
+/*
+ * Проект: Arduino Blink
+ * Автор: Megalodonone
+ * Код основан на примере Blink из Arduino IDE, адаптирован под схему.
+ */
+
 void setup() {
   pinMode(LED_BUILTIN, OUTPUT); // Объявляем пин как выход
 }
